@@ -15,4 +15,4 @@ Deployed using GitHub Pages (or Netlify/Vercel/etc.).
 
 ## Live Preview
 
-[jeetjani.dev](https://jeetjani.dev)
+[jeetjani.dev](http://localhost:8080/)
