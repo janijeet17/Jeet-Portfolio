@@ -15,4 +15,4 @@ Deployed using GitHub Pages (or Netlify/Vercel/etc.).
 
 ## Live Preview
 
-[jeetjani.dev](https://your-custom-link.com)
+[jeetjani.dev](https://jeetjani.dev)
