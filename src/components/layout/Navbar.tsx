@@ -59,9 +59,15 @@ const Navbar = () => {
                   {link.name}
                 </Link>
               ))}
-          <a href="/Jeet_Jani_Resume.pdf" target="_blank" rel="noopener noreferrer">
-            <Button className="btn-primary">Resume</Button>
+          {/* <a href="/Jeet_Jani_Resume.pdf" target="_blank" rel="noopener noreferrer"> */}
+          <a
+          href={`${process.env.PUBLIC_URL}/Jeet Jani Resume.pdf`}
+          target="_blank"
+          rel="noopener noreferrer"
+          >
+          <Button className="btn-primary">Resume</Button>
           </a>
+          {/* </a> */}
 
 
             </div>
