@@ -64,6 +64,7 @@ const Navbar = () => {
           </Button>
         )}
       </div>
+      
 
       {/* Mobile Navigation */}
       {isMobile && isOpen && (
