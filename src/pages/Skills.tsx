@@ -115,7 +115,7 @@ const Skills = () => {
             ))}
           </div>
 
-          <div className="mt-16 text-center">
+          {/* <div className="mt-16 text-center">
             <div className="grid grid-cols-2 md:grid-cols-4 gap-8 max-w-4xl mx-auto">
               {[
                 { value: '50+', label: 'Projects Completed' },
@@ -136,7 +136,7 @@ const Skills = () => {
                 </motion.div>
               ))}
             </div>
-          </div>
+          </div> */}
 
           <motion.div 
             className="text-center mt-12"
