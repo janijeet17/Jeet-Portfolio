@@ -3,8 +3,8 @@ import { Card } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
 import { Link } from 'react-router-dom';
 import cityfinder from '@/assets/City Finder.png';
-import agrosence from '@/assets/agrosence.png';
-import pashumitra from '@/assets/pashumitra.png';
+import agrosence from '@/assets/AgroSence.png';
+import pashumitra from '@/assets/PashuMitra.png';
 import EasyBlood from '@/assets/EasyBlood.png';
 
 import { motion } from 'framer-motion';
