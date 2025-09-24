@@ -33,9 +33,9 @@ const About = () => {
     // },
     {
       year: '2024',
-      title: 'Lead SIH Team of 6 members',
+      title: 'Led SIH Team of 6 members',
       company: 'Ganpat University',
-      description: 'Selected among top 10 teams for SIH 2024 internal college round under the Agriculture domain'
+      description: 'Selected among top 10 teams for SIH 2024 internal college round under the Agriculture domain.'
     },
     {
       year: '2021',
