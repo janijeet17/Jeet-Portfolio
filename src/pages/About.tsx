@@ -54,7 +54,7 @@ const About = () => {
   const interests = [
     { icon: Gamepad2, title: 'Gaming', description: 'Strategy games and indie titles' },
     { icon: Camera, title: 'Photography', description: 'Street and landscape photography' },
-    { icon: Music, title: 'Music Production', description: 'Electronic and ambient music' },
+    { icon: Music, title: 'Music', description: 'Electronic and ambient music' },
     { icon: Heart, title: 'Open Source', description: 'Contributing to community projects' }
   ];
 
@@ -98,8 +98,7 @@ const About = () => {
               About <span className="gradient-text">Me</span>
             </h2>
             <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-              I'm a passionate full-stack developer with 5+ years of experience creating digital solutions 
-              that combine technical excellence with thoughtful design.
+              I am a passionate full-stack developer who loves building impactful digital solutions by combining technical skills with creative design.
             </p>
           </motion.div>
 
@@ -233,9 +232,7 @@ const About = () => {
               transition={{ duration: 0.6, delay: 0.1 }}
               viewport={{ once: true }}
             >
-              My journey into software development began with curiosity and a broken laptop. While trying to fix it, 
-              I discovered the world of programming and was immediately hooked. What started as a hobby quickly became 
-              a passion, and eventually, a career.
+              My journey into technology started during my academic years, where curiosity drove me to explore how software shapes the world around us. As I progressed through my diploma and B.Tech studies, I gained hands-on exposure to various programming languages, databases, and design tools, which strengthened both my technical and problem-solving skills.
             </motion.p>
             <motion.p 
               className="text-lg leading-relaxed mb-6"
@@ -244,9 +241,7 @@ const About = () => {
               transition={{ duration: 0.6, delay: 0.2 }}
               viewport={{ once: true }}
             >
-              Over the years, I've had the privilege of working with amazing teams, tackling challenging problems, 
-              and building products that make a real difference in people's lives. From small startups to established 
-              companies, each experience has shaped my approach to development and design.
+              Along the way, I’ve had the opportunity to intern, collaborate with peers, and participate in national-level hackathons, each experience adding new perspectives to my growth.
             </motion.p>
             <motion.p 
               className="text-lg leading-relaxed"
@@ -255,8 +250,7 @@ const About = () => {
               transition={{ duration: 0.6, delay: 0.3 }}
               viewport={{ once: true }}
             >
-              Today, I'm focused on creating exceptional digital experiences while mentoring the next generation 
-              of developers. I believe technology should be accessible, inclusive, and genuinely helpful.
+              Today, I’m focused on honing my expertise as a full-stack developer, Data analysis with a vision to create solutions that are not only technically sound but also intuitive and impactful.
             </motion.p>
           </div>
         </div>
